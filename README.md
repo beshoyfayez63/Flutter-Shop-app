@@ -1,3 +1,7 @@
 # shopping_app
 
-Fluter Shopp app.
+Flutter Shopp app.
+
+## Getting Started
+
+Please add your firebase project key on lib/providers/auth.dart
